@@ -33,13 +33,13 @@ Wireshark Packet Capture and Filter Usage
   
 • Use filters like http, ip.addr == 192.168.1.1, or tcp.port == 80 in the top filter bar to narrow down results.
 
-![alt text](<Screenshot 2025-04-23 133206.png>)
+![alt text](<Screenshot 2025-04-23 135049.png>)
 
 - **Analyze Packet Details**
   
 • Click on a packet to view its detailed breakdown including frame, Ethernet,IP, TCP/UDP layers, and data payload.
 
-![alt text](<Screenshot 2025-04-23 133338.png>)
+![alt text](<Screenshot 2025-04-23 134833.png>)
 
 ## RESULT:
 Network traffic was successfully captured and analyzed using Wireshark.
